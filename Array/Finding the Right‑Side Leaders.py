@@ -1,6 +1,6 @@
 # Finding the Right_side leader
 #brute_force O(n²)
-arr = [16, 17, 4, 3, 5, 2]
+arr = [16, 17, 4, 3, 5, 2}
 arr_1 = []
 arr_2 = []
 
